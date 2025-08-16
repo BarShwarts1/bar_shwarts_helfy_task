@@ -1,4 +1,3 @@
-# bar_shwarts_helfy_task
 # Task Manager App
 
 This project is a simple Task Manager application built with a React frontend and an Express.js backend. 
@@ -8,9 +7,9 @@ It allows users to create, view, update, and delete tasks.
 
 ### Prerequisites
 
-* Node.js (version 14 or higher)
+* Node.js
 
-* npm (or yarn)
+* npm
 
 ### Installation
 
@@ -18,7 +17,7 @@ It allows users to create, view, update, and delete tasks.
 
 ```
 
-git clone [https://github.com/BarShwarts1/bar\_shwarts\_helfy\_task.git](https://www.google.com/search?q=https://github.com/BarShwarts1/bar_shwarts_helfy_task.git)
+git clone [https://github.com/BarShwarts1/bar_shwarts_helfy_task]
 
 ```
 
@@ -26,7 +25,7 @@ git clone [https://github.com/BarShwarts1/bar\_shwarts\_helfy\_task.git](https:/
 
 ```
 
-cd bar\_shwarts\_helfy\_task
+cd bar_shwarts_helfy_task
 
 ```
 
@@ -142,4 +141,3 @@ The backend provides a RESTful API with the following endpoints. The data is sto
 * **Styling & Polish:** \~45 minutes (adding CSS for a modern look, dark mode, etc).
 
 * **Testing & Debugging:** \~20 minutes.
-```
