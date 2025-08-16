@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const tasks = require('../data/inMemoryDb');
+let tasks = require('../data/inMemoryDb');
 
 router.get('/', (req, res) => {
     res.json(tasks);
